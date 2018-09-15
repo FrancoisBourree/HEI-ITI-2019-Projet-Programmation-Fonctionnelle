@@ -1,0 +1,20 @@
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.exe.config
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.exe
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.pdb
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csprojAssemblyReference.cache
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.Form1.resources
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.Properties.Resources.resources
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csproj.GenerateResource.cache
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csproj.CoreCompileInputs.cache
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.exe
+C:\Users\François\source\repos\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.pdb
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.exe.config
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.exe
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\bin\Debug\JeuxEnfant.pdb
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csprojAssemblyReference.cache
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.Form1.resources
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.Properties.Resources.resources
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csproj.GenerateResource.cache
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.csproj.CoreCompileInputs.cache
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.exe
+C:\Users\François\Desktop\Projets en cours H5\JeuxEnfant\JeuxEnfant design Francois\JeuxEnfant\JeuxEnfant\obj\Debug\JeuxEnfant.pdb
